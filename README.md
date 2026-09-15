@@ -140,6 +140,4 @@ A screenshot of the **customer-segmentation graph** should also be included.
 
 ## 👩‍💻 Author
 
-**Ankita Chauhan**
-BBA FinTech & AI
-Chitkara University
+**Arshita kumar**
